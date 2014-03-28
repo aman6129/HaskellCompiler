@@ -1,0 +1,16 @@
+var x;
+var y;
+var z = 1;
+
+while (x <= 100)
+{
+	while (y < 15)
+	{
+		y = y + 1;
+		z = z + 1;
+	}
+	x = x + 10;
+	y = 0;
+}
+
+z

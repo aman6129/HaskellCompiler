@@ -1,0 +1,11 @@
+var x = 1; 
+var c = 0;
+
+if (x == 1) { c = c + 1; c = c + 1; } else ;
+
+{
+  c = c + 10;
+  var d = 10;
+}
+
+c + d

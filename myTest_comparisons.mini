@@ -1,0 +1,5 @@
+var x = 1; var c;
+if(x == 2) {x = x + 2;} else ;
+if(x >= 3) {c = 100;} else ;
+
+c

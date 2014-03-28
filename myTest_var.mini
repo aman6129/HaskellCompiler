@@ -1,0 +1,7 @@
+var y; var x = 10;
+--uncommenting the below line will cause a can't redeclare a variable error
+--var y = 1222;
+x = x + 2;
+--uncommenting the below line iwll cause an undeclared variable error
+--z = 10;
+x + y
